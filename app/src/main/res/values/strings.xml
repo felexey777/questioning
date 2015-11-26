@@ -1,0 +1,99 @@
+<resources>
+        <string name="action_settings">Адская менюшка</string>
+        <string name="app_name">Адский допрос</string>
+        <string name="about">Несколько слов для тех, кто впервые столкнулся с (текстовыми) квестами.
+                Квест (английское “quest”, поиск) – это разновидность игр, в которых ваш герой проходит
+                по запланированному сюжету, стремясь выполнить какое-то поручение (пример: правильно ответить на
+                вопрос следователя и т.д.).</string>
+
+
+        <string name="hello_world">Текстовая квест игра. Сюжет: В результате взрыва пострадал ангар для самолетов.
+        На камерах были записи, где вы ходите рядом с ангаром. У вас нашли подозрительные предметы.
+        Вас подозревают в терроризме. Вас задержали в аэропорту и ведут в комнату допросов.
+         Следователь в бешенстве от вашей выходки. Первый  вопрос... Прямая речь: "Твоя ФИО?" P.S. Выберите своего персонажа</string>
+        <string name="fio1">Василий Петрович Хренчук</string>
+        <string name="fio2">Галина Марковна Гурч</string>
+        <string name="fio3">Николай Игоревич Семенов</string>
+        <string name="fio4">Евгений Карпович Щтык</string>
+        <string name="fio5">Ника Сергеевна Стикова</string>
+        <string name="fio6">Борис Иванович Иванов</string>
+
+        <string name="lastname">Твоя фамилия ?</string>
+        <string name="hren">Хренчук</string>
+        <string name="hurch">Гурч</string>
+        <string name="semenov">Семенов</string>
+        <string name="shtik">Щтык</string>
+        <string name="stikova">Стикова</string>
+        <string name="ivanov">Иванов</string>
+
+        <string name="name">Как тебя зовут ?</string>
+        <string name="vas">Василий </string>
+        <string name="gal">Галина </string>
+        <string name="nik">Николай </string>
+        <string name="evg">Евгений</string>
+        <string name="nika">Ника</string>
+        <string name="bor">Борис</string>
+
+        <string name="secondname">Назови свое отчество!!! И попробуй мне ошибиться, убью!</string>
+        <string name="sn1">Петрович</string>
+        <string name="sn2">Марковна</string>
+        <string name="sn3">Игоревич</string>
+        <string name="sn4">Карпович</string>
+        <string name="sn5">Сергеевна</string>
+        <string name="sn6">Иванович</string>
+
+        <string name="city">Постоянное место жительства?</string>
+        <string name="kiev">Киев</string>
+        <string name="moskov">Москва</string>
+        <string name="zitomyr">Житомир</string>
+        <string name="lvov">Львов</string>
+        <string name="mariupol">Мариуполь</string>
+        <string name="kirovograd">Кировоград</string>
+
+        <string name="nation">Твоя национальность?</string>
+        <string name="russion">русский</string>
+        <string name="ukraian">украинец</string>
+        <string name="england">англичанин</string>
+        <string name="amtrican">американец</string>
+        <string name="vengr">венгр</string>
+        <string name="moldova">молдованин</string>
+
+        <string name="sister">Как зовут твою сестру?</string>
+        <string name="nina">Нина</string>
+        <string name="natasha">Наташа</string>
+        <string name="oksana">Оксана</string>
+        <string name="ola">Оля</string>
+        <string name="marfa">Марфа</string>
+        <string name="notsister">У меня нет сестры</string>
+
+        <string name="timer">Следователь не доволен! Для того что бы почувствувать атмасферу
+        допроса, можете ударить себя по лицу не оставляя следов или посветить в лицо мощным фонариком.
+             И отвечайте быстрее на вопросы следователя!!!</string>
+
+
+
+        <string name="take">Мы тебя споймали!!! Ты  террорист! Конец игры...Начать сначала?</string>
+        <string name="good">Пока что все хорошо. Ты прошел первую проверку</string>
+        <string name="title_activity_two_activityq">просто вторая активити</string>
+        <string name="terror">Скажи правду..., ТЫ ТЕРРОРИСТ???</string>
+
+        <string name="yes">Да</string>
+        <string name="no">Нет</string>
+
+        <string name="youvon">Хм... Как то странно. Ты так отвечаешь как будто ты законопослушный грожданин.
+        Приносим свои извинения. Но все же , скажите на последок ТЫ ТЕРРОРИСТ???</string>
+        <string name="title_activity_you_von">YouVon</string>
+
+     <string name="Winner">Ты Победитель!!!!</string>
+    <string name="title_activity_begin_plase">BeginPlase</string>
+
+    <string name="title_activity_begin_place">BeginPlace</string>
+        <string name="newplay">Играть еще раз!</string>
+
+        <string name="level1">Уровень №1</string>
+        <string name="level2">Уровень №2</string>
+    <string name="title_activity_second_level">SecondLevel</string>
+
+
+
+</resources>
